@@ -93,7 +93,7 @@ python src/main_pred3UTR.py --ckpt_path checkpoints/3utr.pt --sequence TGTCCCCGG
 
 ## Citation
 
-Please cite the following reference when referencing GEMORNA.
+Please use the following citation when referencing GEMORNA.
 
 ```
 @article{zhang2025deep,
