@@ -44,6 +44,7 @@ conda activate gemorna
 ```
 python src/generate.py --mode cds --ckpt_path checkpoints/gemorna_cds.pt --protein_seq ${protein_seq} 
 ```
+Each run generates different sequence variants, providing users with diverse candidates.
 
 ## 5' UTR generation
 ```
