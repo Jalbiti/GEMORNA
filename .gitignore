@@ -1,0 +1,4 @@
+# large model checkpoints
+*.ckpt
+*.pt
+checkpoints/*.pt
