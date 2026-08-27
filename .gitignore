@@ -2,3 +2,7 @@
 *.ckpt
 *.pt
 checkpoints/*.pt
+
+# Python bytecode cache
+__pycache__/
+*.pyc
